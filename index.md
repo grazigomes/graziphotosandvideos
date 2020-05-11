@@ -2,11 +2,7 @@
 <html lang="en">
 <head>
 <link href="grazi.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Playfair+Display&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Indie+Flower|Playfair+Display&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Cormorant+Garamond|Indie+Flower|Playfair+Display&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cormorant+Garamond:wght@300&family=Indie+Flower&display=swap" rel="stylesheet">
 
 	<meta charset="utf-8">
 	<title>Grazi Photos & Videos</title>
